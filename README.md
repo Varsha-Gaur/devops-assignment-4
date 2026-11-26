@@ -1,6 +1,6 @@
 # Lab 4: Advanced Deployment Strategies & Enterprise DevOps
 
-**Name:** Amit · **Roll No.:** 2301010471
+**Name:** Varsha Gaur · **Roll No.:** 2301010324
 
 A small Flask app is used to demonstrate CI/CD test gates (Jenkins), blue-green and canary deployments, GitOps
 (Argo CD), secret management (HashiCorp Vault) and disaster recovery on Minikube.
