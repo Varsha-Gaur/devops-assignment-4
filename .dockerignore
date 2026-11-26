@@ -1,0 +1,9 @@
+.git
+k8s
+gitops
+jenkins
+scripts
+tests
+submit
+*.md
+Jenkinsfile
